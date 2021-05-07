@@ -12,7 +12,7 @@ module.exports = {
   author: 'Leonrdo Rifeli',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: 'Personal tech blog',
   socialImageTitle: 'Leonardo Rifelio',
   socialImageSubtitle: 'Hello World! 👋',
 

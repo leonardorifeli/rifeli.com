@@ -20,7 +20,7 @@ export const PageHead: React.FC<types.PageProps> = ({ site }) => {
           <meta property='og:description' content={site.description} />
         </>
       )}
-
+      <link rel="shortcut icon" href="https://avatars.githubusercontent.com/u/6767689?v=4" />
       <meta name='theme-color' content='#EB625A' />
       <meta property='og:type' content='website' />
     </Head>
